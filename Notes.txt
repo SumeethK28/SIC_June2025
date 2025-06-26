@@ -1,0 +1,29 @@
+COMMANDS OF GIT CONFIGURATION
+$ git config --global user.name "username of github"
+$ git config --global user.email "email given in github"
+
+COMMANDS FOR GIT CLONE
+$ git clone "Repo url"
+TO ADD PAT:
+	$ git clone https://PAT@github.com/SumeethK28/SIC_June2025
+	
+IMPORTANT GIT COMMANDS:
+$ git add . or git add (path name)
+$ git commit -m "relevant message"
+$ git push or git push origin (origin name)
+
++ and - has least precedence   (Performs operation from left to right)
+* / // % has higher precedence
+** has highest precedence  (Performs operation from right to left)
+
+Octal -> 8 bits (0 to 7)
+Hexadecimal -> 16 bits (0 to 15)
+Binary -> 2 bits (0 & 1)
+
+NOTE: There is no Function Overloading in Python.
+
+Python uses Augmented Assignment Operators instead of Increment and Decrement Operators (++ or --) 
+REASON:
+	For better Readability
+	Less prone to errors and avoids unwanted Complexity.
+	Integers are Immutable, i.e., when the values in a variable are changed, even the memory address also changes.
