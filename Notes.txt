@@ -44,3 +44,18 @@ E. Pascal's Triangle
 F. X shape
 G. X shape inside hollow Square
 H. Benzene Ring (C6H6) Hexagon
+
+-------------------------------------
+Day5 
+Accessing the array elements is also known as lookup which has O(1) because it uses address arithmetic operation to access elements.
+
+1524
+Step-1: 5421
+Step-2: 1245
+Step-3: 4176
+
+7641
+1467
+6174
+
+fp, RA, Stack Pointer, IR, PC -> Function Call

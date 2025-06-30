@@ -1,0 +1,9 @@
+Things to Learn:
+ -> Function Call (fp, RA, Stack Pointer, IR, PC)
+ -> How inheritance is technically implemented ?
+ -> Why main() is public static and void ?
+ -> Why a constructor cannot be final, abstract and static ?
+ -> Explain runtime polymorphism (method over-riding)
+ -> What is a collection and explain its use and memory mapping ?
+ -> Solid Principles
+ -> Design Patterns
