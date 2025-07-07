@@ -59,3 +59,12 @@ Step-3: 4176
 6174
 
 fp, RA, Stack Pointer, IR, PC -> Function Call
+
+-------------------------------------------------------------------
+
+Can we Optimize Selection Sort
+Best Case derivation of Quick Sort
+
+inheritance
+	-> add new feature
+	-> or calling existing feature

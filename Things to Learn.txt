@@ -7,3 +7,5 @@ Things to Learn:
  -> What is a collection and explain its use and memory mapping ?
  -> Solid Principles
  -> Design Patterns
+ -> Constant Pointer
+ -> Pointer to a Constant
