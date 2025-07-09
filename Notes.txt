@@ -68,3 +68,13 @@ Best Case derivation of Quick Sort
 inheritance
 	-> add new feature
 	-> or calling existing feature
+	
+-------------------------------------------------------------------
+To debug the file:
+	$ python -m pdb your_file_name.py
+	
+we can als achieve this using module:
+	import pdb
+	pdb.set_trace()
+
+-------------------------------------------------------------------
