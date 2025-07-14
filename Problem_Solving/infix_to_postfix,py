@@ -70,7 +70,7 @@ class Infixtopostfix:
                     infix = list(infix)
                     infix[i:i+2] = "^"
                     infix = ''.join(infix)
-                while ((not stack.is_empty()) and check.precedence(infix[i]) <= check.precedence(stack.return_top())):
+                while ((not stack.is_empty()) and check.precedence(infix[i]) < check.precedence(stack.return_top())):
                     postfix += stack.return_top()
                     stack.pop()
                 stack.push(infix[i])
