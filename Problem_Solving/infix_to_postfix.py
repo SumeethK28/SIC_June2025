@@ -10,7 +10,7 @@ class Stack:
 
     def pop(self):
         if self.top != -1:
-            element = stack_lst.pop()
+            stack_lst.pop()
             self.top -= 1
         else:
             print("The stack is Empty!!")
